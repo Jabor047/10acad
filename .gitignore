@@ -1,3 +1,4 @@
+*.sqlite
 *.xlsx
 *.zip
 *.mov
