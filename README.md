@@ -23,3 +23,8 @@ The training files and code from 10academy 2020
 > ### A/B Hypothesis Testing: Ad campaign performance
 
 > An advertising company is running an online ad for a client with the intention of increasing brand awareness. The advertiser company earns money by charging the client based on user engagements with the ad it designed and serves via different platforms. To increase its market competitiveness, the advertising company provides a further service that quantifies the increase in brand awareness as a result of the ads it shows to online users. The main objective of this project is to test if the ads that the advertising company runs resulted in a significant lift in brand awareness. 
+
+## Week 5
+> ### Pharmaceutical Sales prediction across multiple stores
+
+> You work at Rossmann Pharmaceuticals as a data scientist. The finance team wants to forecast sales in all their stores across several cities six weeks ahead of time. Managers in individual stores rely on their years of experience as well as their personal judgement to forecast sales.Your job is to build and serve an end-to-end product that delivers this prediction to Analysts in the finance team.
