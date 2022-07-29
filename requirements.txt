@@ -58,7 +58,7 @@ language-selector==0.1
 LunarCalendar==0.0.9
 MarkupSafe==1.1.1
 matplotlib==3.3.1
-mistune==0.8.4
+mistune==2.0.3
 nbconvert==5.6.1
 nbformat==5.0.7
 netifaces==0.10.4
